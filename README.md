@@ -1,4 +1,4 @@
-I am an enthusiastic Full-stack web developer with 14+ years of proven experience. Tech stacks that I have worked on include C#, .Net Framework, Net Core, 
+I am a tech lead and Full-stack web developer with 14+ years of proven experience. Tech stacks that I have worked on include C#, .Net Framework, Net Core, 
 ASP.Net, MVC, web services, SQL, Web APIs (REST API), WCF, JavaScript, HTML/CSS, JQuery, AJAX, OOP, Design Patterns, Microsoft SQL Server for database 
 development, IIS web server, and Git/GitHub. I have developed a number of web based and desktop based applications using the above technologies 
 including designing the entire relational database for each application.  Currently I am actively looking for a developer position in one of high-tech companies 
